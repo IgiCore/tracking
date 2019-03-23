@@ -1,15 +1,5 @@
 name: IgiCore/tracking
 version: 1.0.0
-description: NFive Plugin
+description: IgiCore object tracking lib
 author: IgiCore
 license: LGPL
-server:
-  main:
-    - IgiCore.Tracking.Server
-  include:
-    - IgiCore.Tracking.Shared
-client:
-  main:
-    - IgiCore.Tracking.Client
-  include:
-    - IgiCore.Tracking.Shared
