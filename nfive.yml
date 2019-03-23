@@ -3,3 +3,9 @@ version: 1.0.0
 description: IgiCore object tracking lib
 author: IgiCore
 license: LGPL
+server:
+  include:
+    - IgiCore.Tracking.Shared
+client:
+  include:
+    - IgiCore.Tracking.Shared
