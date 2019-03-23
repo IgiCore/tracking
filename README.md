@@ -1,4 +1,4 @@
-# IgiCore Tracking NFive Plugin
+# IgiCore Tracking Plugin
 [![License](https://img.shields.io/github/license/IgiCore/tracking.svg)](LICENSE)
 [![Build Status](https://img.shields.io/appveyor/ci/IgiCore/tracking.svg)](https://ci.appveyor.com/project/IgiCore/tracking)
 [![Release Version](https://img.shields.io/github/release/IgiCore/tracking/all.svg)](https://github.com/IgiCore/tracking/releases)
