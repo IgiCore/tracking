@@ -9,7 +9,7 @@ namespace IgiCore.Tracking.Shared.Models
 	{
 		int? Handle { get; set; }
 
-		Guid? TrackingUserId { get; set; }
+		Guid TrackingUserId { get; set; }
 
 		int? NetId { get; set; }
 	}
